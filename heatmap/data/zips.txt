@@ -1,0 +1,183 @@
+Albany Park	60625
+Altgeld Gardens	60827
+Andersonville	60640
+Arcadia Terrace	60659
+Archer Heights	60632
+Ashburn	60652
+Avalon Park	60619
+Avondale	60618
+Back of the Yards	60609
+Belmont Central	60639, 60634
+Belmont Gardens	60641, 60639
+Belmont Heights	60634
+Belmont Terrace	60634
+Beverly	60620, 60643
+Beverly View	60620
+Beverly Woods	60655
+Big Oaks	60656
+Bohemian National Cemetery	60630
+Bowmanville	60640, 60625
+Brainerd	60620
+Bridgeport	60608, 60616, 60609
+Brighten Park	60632
+Bronzeville	60653, 60615, 60609, 60616
+Bucktown	60647, 60622, 60614
+Budlong Woods	60625
+Buena Park	60613, 60640
+Burnside	60619
+Cabrini Green	60610
+Calumet Heights	60617, 60619
+Chatham	60619
+Chicago Lawn	60629
+Chinatown	60616
+Clearing	60638
+Cottage Grove Heights	60628
+Cragin	60641, 60639
+DePaul	60614
+Dearborn Park	60605
+Douglas	60616
+Douglas Park	60608
+Dunning	60634
+East Chicago	60617
+East Garfield Park	60624, 60612
+East Rogers Park	60626
+East Village	60622
+Edgebrook	60646
+Edgewater	60640, 60660
+Edison Park	60631
+Englewood	60621, 60636
+Fifth City	60624
+Ford City	60629, 60652
+Forest Glen	60630
+Fuller Park	60609
+Fulton River District	60610, 60622, 60661, 60606
+Gage Park	60632, 60609, 60629
+Galewood	60607
+Garfield Ridge	60638
+Gold Coast	60610, 60611
+Goose Island	60610, 60622
+Graceland Cemetery	60613
+Graceland West	60613
+Grand Crossing	60637, 60619
+Gresham	60620
+Hanson Park	60639
+Hegewisch	60633
+Hermosa	60639
+Hollywood Park	60659
+Homan Square	60624
+Humboldt Park	60651, 60622, 60647
+Hyde Park	60615, 60637
+Industrial Corridor	60618, 60647, 60614, 60622, 60610
+Irving Park	60618
+Irving Woods	60634
+Jackson Park Highlands	60649
+Jefferson Park	60630
+Jeffery Manor	60617
+Kelvyn Park	60639, 60641
+Kennedy Park	60655
+Kenwood	60615
+Kilbourn Park	60641
+Lakeview	60657, 60613
+Lakeview East	60657, 60613
+Lakewood Balmoral	60640
+Lathrop	60614, 60647
+Lawndale	60623, 60624, 60644, 60608, 60612
+Le Claire Courts	60638
+Lincoln Park	60614, 60610
+Lincoln Square	60625
+Little Village	60623, 60608
+Logan Square	60647, 60618
+Longwood Manor	60628, 60643
+Margate Park	60640
+Marquette Park	60629
+Marycrest	60652
+Marynook	60619
+Mayfair	60630
+McKinley Park	60608, 60609
+Medical District	60608, 60612
+Midway	60638
+Montclare	60634, 60607
+Morgan Park	60643
+Mount Greenwood	60655
+Near North	60610
+Near South Side	60616
+Near Eastside	60601
+Noble Square	60622
+North Austin	60639, 60651
+North Center	60618, 60613
+North Kenwood	60653
+North Mayfair	60630
+North Park	60625
+Norwood Park	60631
+Oakland	60653
+O'Hare	60656
+Old Irving Park	60641
+Old Norwood Park	60631
+Old Town	60610
+Old Town Triangle	60614
+Oriole Park	60656
+Park Manor	60637, 60621, 60619
+Parkview	60652
+Peterson Park	60659
+Peterson Park Grounds	60646
+Peterson Woods	60659
+Pill Hill	60617
+Pilsen	60608, 60616
+Portage Park	60634, 60641
+Prairie District	60616
+Princeton Park	60620
+Printer?s Row	60605
+Pullman	60628
+Ravenswood	60640, 60625, 60613
+Ravenswood Gardens	60625
+Ravenswood Manor	60625
+River North	60654, 60611
+River West	60622, 60610
+Roscoe Village	60618, 60657
+Rosehill Cemetery	60625
+Roseland	60628
+Rosemoor	60628
+Sauganash	60646, 60630
+Schorsch Forest View	60656
+Schorsch Village	60634
+Scottsdale	60652
+Sheridan Park	60640
+Sleepy Hollow	60632
+South Austin	60644, 60651
+South Chicago	60617
+South Deering	60617
+South Edgebrook	60646
+South Loop	60605, 60607, 60608, 60616
+South Shore	60649
+St. Ben?s	60618
+Stony Island Park	60617
+Streeterville	60611
+The Gap	60616
+The Loop	60601, 60602, 60603, 60604, 60605, 60606, 60607, 60661
+Tri-Taylor	60612
+Ukranian Village	60622, 60612
+Union Ridge	60656
+United Center Park	60612, 60622
+University Village/Little Italy	60607, 60608
+Uptown	60640
+Vittum Park	60638
+Washington Heights	60643
+Washington Park	60637, 60615, 60609
+West Beverly	60655
+West Chathum	60620
+West Chesterfield	60619
+West Elsdon	60632, 60629
+West Englewood	60636
+West Garfield Park	60624
+West Humboldt Park	60651
+West Lakeview	60657, 60618
+West Loop	60607
+West Morgan Park	60655
+West Pullman	60628, 60643
+West Rogers Park	60645, 60659, 60660
+Westlawn	60629
+Wicker Park	60622
+Wildwood	60646
+Woodlawn	60637, 60649
+Wrightwood	60652
+Wrigleyville	60613
