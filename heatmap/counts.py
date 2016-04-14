@@ -6,6 +6,7 @@ from geopy import Nominatim
 import numpy as np
 import json
 from collections import defaultdict
+from fastkml import kml
 
 zip_dict = defaultdict(str)
 with open('data/zips.txt') as zfile:
@@ -16,8 +17,18 @@ with open('data/zips.txt') as zfile:
         for z in zips:
             zip_dict[z.replace(" ", "")] = city
 
-with open('data/chicago_crashes.json') as file:
+with open('data/crashdata/chicago_crashes.json') as file:
     data = json.load(file)
+
+
+with open('data/routes.kml') as k_file:
+    kml_str = k_file.read()
+    k = kml.KML()
+    k.from_string(kml_str)
+    print(len(k._features))
+
+
+
 
 geolocator = Nominatim()
 accidents = data['accidents']
