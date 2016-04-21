@@ -26,6 +26,7 @@ body {
 }
 
 
+
 .map_container{
     position: relative;
     width: 100%;
@@ -54,11 +55,12 @@ body {
 }
 
 
-.col-lg-4 .img-responsive {
- height: 200px;
- width: 400px;
 
-}
+/*.col-lg-4 .img-responsive {*/
+ /*height: 200px;*/
+ /*width: 400px;*/
+
+/*}*/
 .set-size {
     width: auto;
     height: auto;
@@ -66,7 +68,7 @@ body {
 
 .headline {
     padding: 120px 0;
-    background: rgba(0, 0, 0,0.7);
+    background: rgba(0, 0, 0,0.75);
 }
 
 .headline h1 {
@@ -92,11 +94,7 @@ body {
 }
 
 
-.col-lg-6 {
-    padding: 5px;
-}
-
-.pad-lead {
+.need-space {
     padding-top:40px;
 
 }
