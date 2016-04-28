@@ -12,10 +12,17 @@
     <title>Protected Bike Lanes In Chicago</title>
 
     <!-- Bootstrap Core CSS -->
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
     <link href="website/css/bootstrap.min.css" rel="stylesheet">
 
     <!-- Custom CSS -->
     <link href="website/css/one-page-wonder.css" rel="stylesheet">
+=======
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/one-page-wonder.css" rel="stylesheet">
+>>>>>>> project page woo
 
 
     <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
@@ -140,7 +147,11 @@
         <!-- Wrapper for slides -->
         <div class="carousel-inner" role="listbox">
             <div class="item active">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                 <img src=website/images/milwaukee_lane.jpg alt="shared">
+=======
+                <img src=images/milwaukee_lane.jpg alt="shared">
+>>>>>>> project page woo
                 <div class="carousel-caption">
                     <h3>Unprotected Shared Lane</h3>
                     <p class="lead">The unprotected shared lane forces bicyclists to share a lane with regular traffic. Due to this
@@ -150,7 +161,11 @@
             </div>
 
             <div class="item">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                 <img src="website/images/line_protected.jpg" alt="buffer">
+=======
+                <img src="images/line_protected.jpg" alt="buffer">
+>>>>>>> project page woo
                 <div class="carousel-caption">
                     <h3>Buffer Protected Lane</h3>
                     <p class="lead">The buffer protected lane gives the bicyclists a dedicted lane marked by lines on the road.
@@ -160,7 +175,11 @@
             </div>
 
             <div class="item">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                 <img src="website/images/protected_ex.jpg" alt="protected">
+=======
+                <img src="images/protected_ex.jpg" alt="protected">
+>>>>>>> project page woo
                 <div class="carousel-caption">
                     <h3>Barrier Protected</h3>
                     <p class="lead">The barrier protected bike lane provides a dedicated and secured lane for bicyclists. This lane
@@ -198,11 +217,29 @@
         </div>
 
         <div class="row featurette-row">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
             <div class="col-lg-12">
                 <p class="lead need-space">
                     This map provides an easy look at which areas utilizing different types of lanes. In our solution
                     section, we provide 14 high risk areas in Chicago that are currently in need of an immediate upgrade.
                     These areas have very high accident counts involving bicyclist.
+=======
+            <div class="col-lg-4">
+                <p class="lead center-text">
+
+                </p>
+
+            </div>
+            <div class="col-lg-4">
+                <p class="lead center-text mid-item">
+
+                </p>
+
+            </div>
+            <div class="col-lg-4">
+                <p class="lead center-text">
+
+>>>>>>> project page woo
                 </p>
             </div>
         </div>
@@ -244,7 +281,11 @@
 
         <div class="row featurette-row">
             <div class="col-lg-7">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                 <img class="img-responsive center-block" src="website/images/pie_seasons.jpg" width="100%">
+=======
+                <img class="img-responsive center-block" src="images/pie_seasons.jpg" width="100%">
+>>>>>>> project page woo
             </div>
             <div class="col-lg-5">
                 <p class="lead">
@@ -316,7 +357,11 @@
 
             </div>
             <div class="col-lg-6">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                 <img class="img-responsive" src="website/images/temp_cones.jpg" width="100%">
+=======
+                <img class="img-responsive" src="images/temp_cones.jpg" width="100%">
+>>>>>>> project page woo
             </div>
         </div>
 
@@ -360,6 +405,7 @@
             </div>
         </div>
 
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
         <p class="lead need-space">
             <div class="col-lg-6">
                 <iframe frameborder="0" class="juxtapose" width="100%" height="780"
@@ -376,7 +422,7 @@
 
                     </ul>
                 </p>
-                <img class="img-responsive" src="website/images/536.jpg" width="100%">
+                <img class="img-responsive" src="website/images/536.jpg" width="100%" />
                 <p class="lead need-space">
                     Barriers like the one shown above are a viable cost effective option for temporary barriers.
                     They cost approximately $25,000 a mile; 5 times less than buffer protected lanes and 8 time less
@@ -385,6 +431,8 @@
             </div>
         </p>
 
+=======
+>>>>>>> project page woo
 
     </div>
 
@@ -393,17 +441,25 @@
     <!-- Thanks -->
     <div class="featurette" >
 
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
         <h2 class="featurette-heading">Credits: </h2>
+=======
+        <h2 class="featurette-heading">Thank you: </h2>
+>>>>>>> project page woo
 
         <div class="row featurette-row">
             <div class="col-lg-12">
                 <p class="lead">
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
                     Thank you to the Chicago Department of Transportation for making the crash data publicly available, Chicago Complete Streets
                     for making the bike lane map publicly available and Chicago Tribune for the slider bike lane map.
                 </p>
                 <p class="lead">
                     We also wanted to say thank you to Steven Vance for providing us with motor vehicle crash data
                     from the Illinois Department of Transportation.
+=======
+                    Thank you to CDOT and IDOT for making the crash data publicly available.
+>>>>>>> project page woo
                 </p>
 
             </div>
@@ -426,10 +482,17 @@
 <!-- /.container -->
 
 <!-- jQuery -->
+<<<<<<< 312d644033ac9a7354407853dbcbf9bb71b5ae78
 <script src="website/js/jquery.js"></script>
 
 <!-- Bootstrap Core JavaScript -->
 <script src="website/js/bootstrap.min.js"></script>
+=======
+<script src="js/jquery.js"></script>
+
+<!-- Bootstrap Core JavaScript -->
+<script src="js/bootstrap.min.js"></script>
+>>>>>>> project page woo
 
 </body>
 
